@@ -1,0 +1,9 @@
+# @name luke
+GET https://swapi.dev/api/people/1 
+
+###
+
+# @name third_person
+Get https://swapi.dev/api/people/3 
+
+
